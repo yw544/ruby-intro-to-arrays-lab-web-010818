@@ -5,3 +5,7 @@ end
 def array_with_two_elements
 ["a","b"]
 end
+
+def first_element[]
+  return array.first
+end
